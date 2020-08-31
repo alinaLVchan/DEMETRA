@@ -32,7 +32,6 @@ table {
 
 #header {
 	width: 100%;
-	background-image: url("../img/header.jpg");
 	display: flex;
 	align-items: center;
 	font-size: 32px;
